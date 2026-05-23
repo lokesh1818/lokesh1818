@@ -43,7 +43,6 @@ Beyond coding, I'm an active competitive programmer with **300+ problems solved*
 - 🏆 **Top 10** in Google WOW Hackathon
 - 🧩 **300+ problems** solved across LeetCode, HackerRank & GeeksforGeeks
 - ☁️ Exploring **AWS** & **Kubernetes** for cloud-native development
-- 🌱 Currently deepening: **System Design**, **TypeScript**, **PostgreSQL**
 - 📫 Reach me at: **lokeshchakri0@gmail.com** | 📞 **+91 7995267594**
 
 ---
